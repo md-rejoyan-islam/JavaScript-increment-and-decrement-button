@@ -21,9 +21,9 @@ Click the "+" or "-" button to adjust the displayed value. The current value wil
 ## Clone the repository:
 
 ```javascript
-git clone https://github.com/YOUR_USERNAME/simple-increment-decrement.git
+git clone https://github.com/md-rejoyan-islam/JavaScript-increment-and-decrement-button
 ```
 
 ## Live Demo:
 
-[Click]()
+[Click](https://md-rejoyan-islam.github.io/JavaScript-increment-and-decrement-button/)
